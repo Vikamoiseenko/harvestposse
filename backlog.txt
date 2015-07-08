@@ -64,11 +64,11 @@ www.harvestposse.com
 
 	Create Information Architecture
 	Create Wireframes 
-	Produce color pallette options
+	Produce color palette options
 	Add Bootstrap
 	Image Map
 	Basic Market Listing: locations & hours
-	Skleleton Pages
+	Skeleton Pages
 	Logo
 	Find Images
 	Linked CSS File
