@@ -24,6 +24,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
   </head>
 
   <body role="document">
@@ -83,7 +84,7 @@
               <h3 class="panel-title">Map</h3>
             </div>
             <div class="panel-body">
-              <p>Your incredible working map goes here.</p>
+              <p>Map goes here.</p>
             </div>
           </div>
         </div>
@@ -106,18 +107,36 @@
           <p>Something graphical goes here.</p>
         </div>
       </div>
-
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Sitemap</h3>
-        </div>
-        <div class="panel-body">
-          <p>Various Site Map Content Here</p>
-        </div>
-      </div>
-
+    
+    <!-- sitemap -->
+    <div class="well hidden-xs">
+      <h2>Site Map</h2>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li>Markets
+          <ul>
+            <li><a href="#">U-District</a></li>
+            <li><a href="#">Capital Hill</a></li>
+            <li><a href="#">West Seattle</a></li>
+            <li><a href="#">Columbia City</a></li>
+            <li><a href="#">Lake City</a></li>
+            <li><a href="#">Phinney</a></li>
+            <li><a href="#">Magnolia</a></li> 
+          </ul>
+        </li>
+        <li><a href="#">Fresh List</a></li>
+      </ul>
+    </div>
+    
+    
     </div> <!-- /container -->
-
+        
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted">Copyright &copy; 2015 Team Catamount. All Rights Reserved.</p>
+      </div>
+    </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
