@@ -15,13 +15,13 @@
         <li class="dropdown">
           <a href="markets.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Markets<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">U-District</a></li>
-            <li><a href="#">Capital Hill</a></li>
-            <li><a href="#">West Seattle</a></li>
-            <li><a href="#">Columbia City</a></li>
-            <li><a href="#">Lake City</a></li>
-            <li><a href="#">Phinney</a></li>
-            <li><a href="#">Magnolia</a></li>               
+            <li><a href="udistrict.php">U-District</a></li>
+            <li><a href="caphill.php">Capitol Hill</a></li>
+            <li><a href="wseattle.php">West Seattle</a></li>
+            <li><a href="columbia.php">Columbia City</a></li>
+            <li><a href="lake.php">Lake City</a></li>
+            <li><a href="phinney.php">Phinney</a></li>
+            <li><a href="magnolia.php">Magnolia</a></li>               
           </ul>
         </li>
         <li class="dropdown">
