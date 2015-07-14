@@ -60,7 +60,7 @@ www.harvestposse.com
 		Calendar w/populated images on appropriate dates
 		
 		
->>>>> SPRINT ALPHA GOALS<<<<<
+>>>>> SPRINT ALPHA GOALS<<<<<  **due July 16**
 
 	Create Information Architecture
 	Create Wireframes 
@@ -69,8 +69,21 @@ www.harvestposse.com
 	Image Map
 	Basic Market Listing: locations & hours
 	Skeleton Pages
-	Logo
+	Logo Options
 	Find Images
 	Linked CSS File
 	Basic Navigation
+	Finalize Nav bar
+	Finalize Sitemap
 
+>>>>> SPRINT BETA GOALS<<<<<  **due July 30**
+
+	Finalize Logo
+	Font stack
+	Finalize CSS
+	About Us Content
+	Markets Content
+	Vendors Content
+	Home Content
+	Fresh List
+	Market-specific Images
