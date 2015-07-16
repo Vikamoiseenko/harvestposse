@@ -1,2 +1,41 @@
 /* Summer Theme Stylesheet */
 
+/* Our colors:
+ * foreground: #eddb66 <-- off yellow
+ * background: #fcf3e1 <-- off white
+ * selected: #d4626a   <-- reddish
+ */
+
+body {
+  background: #fcf3e1;
+}
+
+.panel-default > .panel-heading {
+  background: #eddb66;
+  color: black;
+}
+
+.navbar-nav > li:hover {
+  background: #d4626a;
+}
+
+.page-header {
+  margin: 0px 0px;
+}
+/* Our sitemap and navbar have the same background */
+.navbar {
+  background: #eddb66;
+}
+
+.navbar .nav > li > a {
+  color: black;
+}
+  
+.well {
+  background: #eddb66;
+  color: black;
+}
+
+.well a {
+  color: black;
+}
