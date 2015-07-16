@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -16,23 +16,15 @@
           <a href="markets.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Markets<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="udistrict.php">U-District</a></li>
-<<<<<<< HEAD
             <li><a href="caphill.php">Capitol Hill</a></li>
             <li><a href="wseattle.php">West Seattle</a></li>
             <li><a href="columbia.php">Columbia City</a></li>
             <li><a href="lake.php">Lake City</a></li>
             <li><a href="phinney.php">Phinney</a></li>
             <li><a href="magnolia.php">Magnolia</a></li>               
-=======
-            <li><a href="#">Capital Hill</a></li>
-            <li><a href="#">West Seattle</a></li>
-            <li><a href="#">Columbia City</a></li>
-            <li><a href="#">Lake City</a></li>
-            <li><a href="#">Phinney</a></li>
-            <li><a href="#">Magnolia</a></li>               
->>>>>>> master
           </ul>
         </li>
+
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Vendors<span class="caret"></span></a>
           <ul class="dropdown-menu">
