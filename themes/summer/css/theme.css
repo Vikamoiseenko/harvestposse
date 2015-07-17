@@ -32,9 +32,6 @@ body {
   color: black;
 }
 
-.navbar-toggle {
-  background: red;
-}
 
 .navbar-default .navbar-nav>.active>a {
     background: #d4626a;
