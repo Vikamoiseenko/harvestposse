@@ -22,15 +22,29 @@ body {
 .page-header {
   margin: 0px 0px;
 }
-/* Our sitemap and navbar have the same background */
+
+/* navbar */
 .navbar {
   background: #eddb66;
 }
 
-.navbar .nav > li > a {
+.navbar .nav li a {
   color: black;
 }
-  
+
+.navbar-toggle {
+  background: red;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    background: #d4626a;
+}
+
+.navbar-default .navbar-nav>.open>a {
+    background: #d4626a;
+}
+
+/* sitemap */ 
 .well {
   background: #eddb66;
   color: black;

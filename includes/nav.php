@@ -10,7 +10,7 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="index.php">Home</a></li>
+        <li class="active"><a href="index.php">Home</a></li>
         <li><a href="about.php">About Us</a></li>
         <li class="dropdown">
           <a href="markets.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Markets<span class="caret"></span></a>
