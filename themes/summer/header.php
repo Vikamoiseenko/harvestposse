@@ -17,9 +17,12 @@
 
     <!-- HarvestPosse summer theme stylesheet -->
     <link href="themes/summer/css/theme.css" rel="stylesheet" type="text/css"/>
+<<<<<<< HEAD
  <link href="css/lightbox.css" rel="stylesheet" />
  <script src="js/jquery-1.11.0.min.js"></script>
  <script src="js/lightbox.min.js"></script>
+=======
+>>>>>>> origin/master
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
