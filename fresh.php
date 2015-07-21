@@ -11,7 +11,6 @@
         </div>
         <div class="panel-body">
           <p>See what's fresh:</p>
-<<<<<<< HEAD
         <article class="chapterOne">
    <div role="main">
      <a href="images/farmer.jpg" data-lightbox="image-1" data-title="Fresh list">
@@ -51,9 +50,7 @@
 
 </article>
       </div>
-=======
         </div>
->>>>>>> origin/master
       </div>
 <?php
   get_footer();
