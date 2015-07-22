@@ -11,6 +11,7 @@
               <h3 class="panel-title">Columbia City Market</h3>
             </div>
             <div class="panel-body">
+            Come out to this market south Seattle neighborhood market on a sunny Sunday May through October! The Columbia City market is mainly produce, but also has vendors offering a great selection in wines. Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
               <p>Hours: Wednesdays May 6-Oct 14</p>
               <p>3pm-7pm</p>
               <p>37th Ave S off of Rainier Ave S</p>

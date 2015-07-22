@@ -11,6 +11,7 @@
               <h3 class="panel-title">U-District Market</h3>
             </div>
             <div class="panel-body">
+            Any Saturday of the year is perfect to pay a visit to this larger neighborhood market. The U-District is the perfect market to browse for hours - there are plenty of produce vendors present. Grab some lunch and a drink fit for the season and explore! Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
               <p>Hours: Saturdays, all year round </p>
               <p>9am-2pm</p>
               <p>University Way NE between 50th and 52nd</p>

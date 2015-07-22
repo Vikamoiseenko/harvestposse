@@ -11,6 +11,7 @@
               <h3 class="panel-title">Phinney Market</h3>
             </div>
             <div class="panel-body">
+            May through September this smaller neighborhood market offers lovely farm fresh produce and a great selection of meat, poultry and seafood. Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
               <p>Hours: Fridays, May 29-Sept 25</p>
               <p>3pm-7pm</p>
               <p>N 67th St & Phinney Ave N</p>

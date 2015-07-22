@@ -11,6 +11,7 @@
               <h3 class="panel-title">Magnolia Market</h3>
             </div>
             <div class="panel-body">
+            June through October this lovely neighborhood market has a large variety of vendors selling fresh produce. Artisanal foods and beverages from a few different vendors are also available. Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
               <p>Hours: Saturdays June 6-Oct 17</p>
               <p>10am-2pm</p>
               <p>33rd Ave W & W McGraw Str</p>

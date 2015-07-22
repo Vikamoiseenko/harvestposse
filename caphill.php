@@ -11,6 +11,7 @@
               <h3 class="panel-title">Capitol Hill Market</h3>
             </div>
             <div class="panel-body">
+            Capitol Hill Broadway: Year round every Sunday rain or shine, some of the best vendors are on Capitol Hill with deliciously fresh (and local!) goodies. It’s a smaller neighborhood market, but definitely isn’t one to be overlooked! Great vendors offer wine, beer, cider, and fresh pastries. There is also a small selection of produce present, as well as meat, poultry, and seafood. Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!<p>
               <p>Hours: Sundays, all year round</p>
               <p>11am-3pm</p>
               <p>Broadway Ave E and E Pine St</p>

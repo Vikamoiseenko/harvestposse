@@ -11,6 +11,7 @@
               <h3 class="panel-title">Lake City Market</h3>
             </div>
             <div class="panel-body">
+            June through October this market has a variety of vendors offering great artisanal foods and beverages! Poultry and eggs are typically at this neighborhood market as well but get snatched up quickly, so get there early! Lake City is a smaller market, but once you’ve tried some of the yummy food available, it will quickly become your favourite! Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
               <p>Hours: Thursdays, June 11-Oct 1</p>
               <p>3pm-7pm</p>
               <p>NE 125th & 28th NE<br/>
