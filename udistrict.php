@@ -11,9 +11,22 @@
               <h3 class="panel-title">U-District Market</h3>
             </div>
             <div class="panel-body">
-              <p>Hours: Saturdays, all year round </p>
+            <p>Hours: Saturdays, all year round </p>
               <p>9am-2pm</p>
               <p>University Way NE between 50th and 52nd</p>
+            Any Saturday of the year is perfect to pay a visit to this larger neighborhood market. The U-District is the perfect market to browse for hours - there are plenty of produce vendors present. Grab some lunch and a drink fit for the season and explore! Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
+              <h4>Vendors</h4>
+              <ul><li> Alm Hill Gardens - flowers</li>
+               <li> Blong's Garden - flowers, vegetables</li>
+               <li> Bloom Creek Cranberries</li>
+                <li>Booth Canyon Orchard</li>
+                <li>Botanica - nursery</li> </ul>
+                <h4>Fish, Meat and Poultry</h4>
+                 <ul><li>Fishing Vessel Hat Trick - spot prawns</li>
+                <li>Glendale Shepherd - sheeps milk products</li>
+                <li>Growing Things Farm</li>
+                <li>Growing Washington - berries, vegetables</li>
+                <li>Hama Hama Shellfish</li></ul> 
             </div>
           </div>
         </div>

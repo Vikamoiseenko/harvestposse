@@ -41,6 +41,7 @@ body {
   color: white;
 }
 
+<<<<<<< HEAD
 /* Navbar dropdown menus */
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus { color: #ffffff; text-decoration: none; background: #c74243; }
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus { color: #ffffff; text-decoration: none; background: #c74243; outline: 0; }
@@ -54,4 +55,33 @@ body {
 /* Well */
 .well { background: #ffe983; border: 1px solid #edd97a; }
 .well a { color: black; }
+=======
+.page-header {
+  margin: 0px 0px;
+}
+
+/* navbar */
+.navbar {
+  background: #eddb66;
+}
+
+.navbar .nav li a {
+  color: black;
+}
+
+
+.navbar-default .navbar-nav>.active>a {
+    background: #d4626a;
+}
+
+.navbar-default .navbar-nav>.open>a {
+    background: #d4626a;
+}
+
+/* sitemap */ 
+.well {
+  background: #eddb66;
+  color: black;
+}
+>>>>>>> 905ee02322f101beb2cab8d50adbcba71d2ed28d
 

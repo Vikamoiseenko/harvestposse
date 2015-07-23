@@ -14,6 +14,18 @@
               <p>Hours: Sundays, all year round</p>
               <p>10am - 2pm</p>
               <p>California Ave SW & SW Alaska</p>
+              <h4>Vendors</h4>
+               <ul><li>Alvarez Farms - produce</li>
+               <li> Blong's Garden - flowers, vegetables</li>
+               <li> Bloom Creek Cranberries</li>
+                <li>Botanica - nursery</li>
+                <li>Canales Produce </li></ul>
+                <h4>Fish, Meat and Poultry</h4>
+                <ul><li> Cook Inlet Wild Fish Co.</li>
+                <li>Fishing Vessel Hat Trick - spot prawns</li>
+                <li>Green Bow Farm LLC</li>
+                <li>Growing Washington - berries, vegetables</li>
+                <li>Loki Fish Company</li></ul> 
             </div>
           </div>
         </div>
