@@ -11,10 +11,24 @@
               <h3 class="panel-title">Columbia City Market</h3>
             </div>
             <div class="panel-body">
-            Come out to this market south Seattle neighborhood market on a sunny Sunday May through October! The Columbia City market is mainly produce, but also has vendors offering a great selection in wines. Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
-              <p>Hours: Wednesdays May 6-Oct 14</p>
+            <p>Hours: Wednesdays May 6-Oct 14</p>
               <p>3pm-7pm</p>
               <p>37th Ave S off of Rainier Ave S</p>
+            <p>Come out to this market south Seattle neighborhood market on a sunny Sunday May through October! The Columbia City market is mainly produce, but also has vendors offering a great selection in wines. Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!</p>
+            <h4>Vendors</h4>
+            <h4>Produce</h4>
+                <ul><li>Alvarez Farms - produce</li>
+                <li>Bao Yang Garden - flowers and vegetables</li>
+                <li>Canales Produce</li>
+                <li>Cascadia Edible Landscapes</li>
+                <li>Collins Family Orchards </li></ul>
+                <h4>Fish, Meat and Poultry</h4>
+                 <ul><li>Goose and Gander Farm</li>
+                <li>Growing Washington - berries, vegetables</li>
+                <li>Olsen Farms</li>
+                <li>Samish Bay Cheese</li>
+                <li>Seattle Tilth Produce </li></ul>
+              
             </div>
           </div>
         </div>
