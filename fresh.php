@@ -5,7 +5,7 @@
 ?>
 
     <div class="container theme-showcase" role="main">
-      <div class="panel panel-default">
+      <div class="panel panel-primary">
         <div class="panel-heading">
           <h3 class="panel-title">Fresh List</h3>
         </div>
