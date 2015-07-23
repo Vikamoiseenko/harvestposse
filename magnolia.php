@@ -6,7 +6,7 @@
     <div class="container theme-showcase" role="main">
       <div class="row">
         <div class="col-md-7">
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h3 class="panel-title">Magnolia Market</h3>
             </div>
@@ -19,7 +19,7 @@
         </div>
 
         <div class="col-md-5">
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h3 class="panel-title">Here is our Market</h3>
             </div>
@@ -29,7 +29,7 @@
         </div>
       </div>
 
-      <div class="panel panel-default">
+      <div class="panel panel-primary">
         <div class="panel-heading">
           <h3 class="panel-title">Events</h3>
         </div>
