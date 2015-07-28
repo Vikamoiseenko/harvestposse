@@ -43,7 +43,7 @@
     </li>
     </div>
        <div class="col-md-2">
-    <li><a href="#">FAQ</a></li>
+    <li><a href="#">FAQ's</a></li>
     </div>
   </ul>
 
