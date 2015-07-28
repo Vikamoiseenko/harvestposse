@@ -1,2 +1,62 @@
 /* Winter Theme Stylesheet */
 
+/* Palette:
+   #1 #db4547
+   #2 #fa914b
+   #3 #eddb66
+   #4 #fcf3e1 --- navbar
+   #5 #997e79 --- selection
+   
+   #6 #fff9e9 --- background
+*/
+
+/* Background */
+body {
+  background: #fff9e9;
+  
+}
+
+/* Navbar */
+.navbar-default { background: #fcf3e1; }
+.navbar-default .navbar-brand { color: #807542; }
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus { color: white; background: transparent; }
+.navbar-default .navbar-text { color: #807542; }
+.navbar-default .navbar-nav > li > a { color: black; }
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus { color: white; background: transparent; }
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { color: white; background: #997e79; }
+.navbar-default .navbar-nav > .disabled > a, .navbar-default .navbar-nav > .disabled > a:hover, .navbar-default .navbar-nav > .disabled > a:focus { color: #d4c16d; background: transparent; }
+.navbar-default .navbar-toggle { border-color: #e3cf75; }
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus { background: #997e79; }
+.navbar-default .navbar-toggle .icon-bar { background: #d4c16d; }
+.navbar-default .navbar-collapse, .navbar-default .navbar-form { border-color: #edd97a; }
+.navbar-default .navbar-nav > .dropdown > a:hover .caret, .navbar-default .navbar-nav > .dropdown > a:focus .caret { border-top-color: #3b361e; border-bottom-color: #3b361e; }
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus { color: white; background: #997e79; }
+.navbar-default .navbar-nav > .open > a .caret, .navbar-default .navbar-nav > .open > a:hover .caret, .navbar-default .navbar-nav > .open > a:focus .caret { border-top-color: #5c542f; border-bottom-color: #5c542f; }
+.navbar-default .navbar-nav > .dropdown > a .caret { border-top-color: #807542; border-bottom-color: #807542; }
+@media (max-width:767px) { .navbar-default .navbar-nav .open .dropdown-menu > li > a { color: #807542; }
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus { color: white; background: transparent; }
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus { color: white; background: #997e79; }
+.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a, .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus { color: #d4c16d; background: transparent; }
+}
+.navbar-default .navbar-link { color: #807542; }
+.navbar-default .navbar-link:hover { color: white; }
+
+.navbar li:hover {
+  background: #997e79;
+  color: white;
+}
+
+/* Navbar dropdown menus */
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus { color: #ffffff; text-decoration: none; background: #997e79; }
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus { color: #ffffff; text-decoration: none; background: #997e79; outline: 0; }
+
+/* Panels */
+.panel-primary { border-color: #fcf3e1; }
+.panel-primary > .panel-heading { color: black; background: #fcf3e1; border-color: #fcf3e1; }
+.panel-primary > .panel-heading + .panel-collapse .panel-body { border-top-color: #fcf3e1; }
+.panel-primary > .panel-footer + .panel-collapse .panel-body { border-bottom-color: #fcf3e1; }
+
+/* Well */
+.well { background: #fcf3e1; border: 1px solid #edd97a; }
+.well a { color: black; }
+
