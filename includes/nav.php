@@ -43,6 +43,9 @@
         </li>
         <li><a href="fresh.php">Fresh List</a></li>            
       </ul>
+        </li>
+        <li><a href="faq.php">FAQ's</a></li>            
+      </ul>
     </div><!--/.nav-collapse -->
   </div>
 </nav>

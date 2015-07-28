@@ -39,6 +39,13 @@
     <li><a href="#">Fresh List</a></li>
     </div>
   </ul>
+     </ul>
+    </li>
+    </div>
+       <div class="col-md-2">
+    <li><a href="#">FAQ</a></li>
+    </div>
+  </ul>
 
 </div>               
     </div>
