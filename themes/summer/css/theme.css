@@ -1,9 +1,13 @@
 /* Summer Theme! */
 
-/* Some colors to pay attention to:
-   reddish: #c74243
-   orangeish: #fa9866
-   yellowish: #ffe983 */
+/* #1 c74243 --- selection
+   #2 fa9866 --- navbar
+   #3 ffe983
+   #4 7192c9
+   #5 6cb76a
+   
+   #6 #fff9e9 --- background
+*/
 
 /* Background */
 body {
@@ -12,7 +16,7 @@ body {
 }
 
 /* Navbar */
-.navbar-default { background: #ffe983; border-color: #f0db7b; }
+.navbar-default { background: #fa9866; border-color: #f0db7b; }
 .navbar-default .navbar-brand { color: #807542; }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus { color: white; background: transparent; }
 .navbar-default .navbar-text { color: #807542; }
@@ -46,12 +50,12 @@ body {
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus { color: #ffffff; text-decoration: none; background: #c74243; outline: 0; }
 
 /* Panels */
-.panel-primary { border-color: #ffe983; }
-.panel-primary > .panel-heading { color: black; background: #ffe983; border-color: #ffe983; }
-.panel-primary > .panel-heading + .panel-collapse .panel-body { border-top-color: #ffe983; }
-.panel-primary > .panel-footer + .panel-collapse .panel-body { border-bottom-color: #ffe983; }
+.panel-primary { border-color: #fa9866; }
+.panel-primary > .panel-heading { color: black; background: #fa9866; border-color: #fa9866; }
+.panel-primary > .panel-heading + .panel-collapse .panel-body { border-top-color: #fa9866; }
+.panel-primary > .panel-footer + .panel-collapse .panel-body { border-bottom-color: #fa9866; }
 
 /* Well */
-.well { background: #ffe983; border: 1px solid #edd97a; }
+.well { background: #fa9866; border: 1px solid #edd97a; }
 .well a { color: black; }
 
