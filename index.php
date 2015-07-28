@@ -22,6 +22,7 @@
               <h3 class="panel-title">Map</h3>
             </div>
             <div class="panel-body">
+<<<<<<< HEAD
               <p><head>
       <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
       <title>Google Maps Multiple Markers</title>
@@ -68,6 +69,9 @@
         }
       </script>
     </body></p>
+=======
+              <p>Map goes here.</p>
+>>>>>>> victoria
             </div>
           </div>
         </div>
@@ -78,6 +82,7 @@
           <h3 class="panel-title">What We Do</h3>
         </div>
         <div class="panel-body">
+<<<<<<< HEAD
           <p>We do what we do because we are who we are.</p>
         </div>
       </div>
@@ -90,6 +95,15 @@
           <p>Something graphical goes here.</p>
         </div>
       </div>   
+=======
+          <p>Have you ever found yourself searching for when a particular piece of produce is in season at your local market? Have you ever been shopping at your local market and found yourself disappointed because none of the vendors had what you needed? </p>
+<p>We are here to answer questions just like these! We are here to tell you what produce is available at which Seattle Neighborhood Market and when. Keeping track of what produce will be at what market in each season is hard enough – let us help you!</p> 
+<p><a href="#">Here</a> you will find plenty of information regarding what is available this beautiful summer season at each Neighborhood Market! 
+<a href="#">Read More about our Mission</a>
+</p>
+        </div>
+      </div>
+>>>>>>> victoria
 <?php
   get_footer();
 ?>
