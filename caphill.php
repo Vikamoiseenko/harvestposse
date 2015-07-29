@@ -40,6 +40,27 @@
             <div class="panel-body">
             </div>
           </div>
+               <div class="panel panel-primary">
+          <div class="panel-heading">
+          <h3 class="panel-title">Social Media Links</h3>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+      <div class="col-xs-2">
+       <a href="https://www.facebook.com/BroadwaySundayFarmersMarket" target="_blank"><img class="img-responsive" src="images/fb.png" alt="facebook icon"></a>
+      </div>
+      <div class="col-xs-2">
+       <a href="http://www.yelp.com/biz/broadway-farmers-market-seattle-3" target="_blank"><img class="img-responsive" src="images/yelp.png" alt="yelp icon"></a>
+      </div>
+      <div class="col-xs-2">
+       <a href="https://foursquare.com/v/broadway-sunday-farmers-market/4aa9bfa8f964a5202a5520e3" target="_blank"><img class="img-responsive" src="images/foursquare.png" alt="foursquare icon"></a>
+      </div>
+
+   		</div>
+          </div>
+      </div>
+ 
+          
         </div>
       </div>
 

@@ -49,9 +49,29 @@
               <h3 class="panel-title">Here is our U-District Market</h3>
             </div>
             <div class="panel-body">
-              <p><img src="http://seattlefarmersmarkets.org/markets/u-district/u-district/@@collective.cover.banner/d1d67fccdce54938b5ddf47ba4ea2de8/@@images/fdef0358-2d4c-4d1c-b9d0-66ee4483f35c.jpeg" alt="UDFM South Entrance.JPG" width="430" height="250"></p>
+              <p><img class="img-responsive center-block" src="http://seattlefarmersmarkets.org/markets/u-district/u-district/@@collective.cover.banner/d1d67fccdce54938b5ddf47ba4ea2de8/@@images/fdef0358-2d4c-4d1c-b9d0-66ee4483f35c.jpeg" alt="UDFM South Entrance.JPG" width="430" height="250"></p>
             </div>
           </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+          <h3 class="panel-title">Social Media Links</h3>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+      <div class="col-xs-2">
+       <a href="https://www.facebook.com/UniversityDistrictFarmersMarket" target="_blank"><img class="img-responsive" src="images/fb.png" alt="facebook icon"></a>
+      </div>
+      <div class="col-xs-2">
+       <a href="http://www.yelp.com/biz/university-district-farmers-market-seattle-2" target="_blank"><img class="img-responsive" src="images/yelp.png" alt="yelp icon"></a>
+      </div>
+      <div class="col-xs-2">
+       <a href="https://foursquare.com/v/university-district-farmers-market/47e4d6fbf964a5204c4e1fe3" target="_blank"><img class="img-responsive" src="images/foursquare.png" alt="foursquare icon"></a>
+      </div>
+
+   		</div>
+          </div>
+      </div>
+
         </div>
       </div>
 
