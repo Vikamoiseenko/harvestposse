@@ -5,7 +5,7 @@
 ?>
 
     <div class="container theme-showcase" role="main">
-      <div class="panel panel-default">
+      <div class="panel panel-primary">
         <div class="panel-heading">
           <h3 class="panel-title">About Us</h3>
         </div>
