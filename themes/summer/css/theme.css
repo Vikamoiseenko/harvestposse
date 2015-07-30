@@ -59,3 +59,17 @@ body {
 .well { background: #fa9866; border: 1px solid #edd97a; }
 .well a { color: black; }
 
+/* Jumbotron */
+.jumbotron {
+  background: #fa9866;
+}
+
+#myCarousel {
+  width: 100%;
+}
+    
+.item{
+  text-align: center;
+  height: 300px !important;
+}
+  
