@@ -8,49 +8,49 @@
         <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
           <div class="carousel-inner">
             <div class="item active">
-              <img src="market.jpg" alt="Market"/>
+              <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
                 <h2>U-District Market</h2>
                 <p>The U-District is the perfect market to browse for hours - there are plenty of produce vendors present. Grab some lunch and a drink fit for the season and explore!</p>
               </div>
             </div>
             <div class="item">
-              <img src="market.jpg" alt="Market"/>
+              <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
                 <h2>Capitol Hill Market</h2>
                 <p>It’s a smaller neighborhood market, but definitely isn’t one to be overlooked! Great vendors offer wine, beer, cider, and fresh pastries.</p>
               </div>
             </div>
             <div class="item">
-              <img src="market.jpg" alt="Market"/>
+              <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
                 <h2>West Seattle Market</h2>
                 <p>It's a market. Eat up.</p>
               </div>
             </div>
             <div class="item">
-              <img src="market.jpg" alt="Market"/>
+              <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
                 <h2>Columbia City Market</h2>
                 <p>The Columbia City market is mainly produce, but also has vendors offering a great selection in wines.</p>
               </div>
             </div>
             <div class="item">
-              <img src="market.jpg" alt="Market"/>
+              <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
                 <h2>Lake City Market</h2>
                 <p>Lake City is a smaller market, but once you’ve tried some of the yummy food available, it will quickly become your favourite! </p>
               </div>
             </div>
             <div class="item">
-              <img src="market.jpg" alt="Market"/>
+              <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
                 <h2>Phinney Market</h2>
                 <p>May through September this smaller neighborhood market offers lovely farm fresh produce and a great selection of meat, poultry and seafood. </p>
               </div>
             </div>
             <div class="item">
-              <img src="market.jpg" alt="Market"/>
+              <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
                 <h2>Magnolia Market</h2>
                 <p>It's a market. Eat up.</p>
