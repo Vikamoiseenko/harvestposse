@@ -60,3 +60,20 @@ body {
 .well { background: #fcf3e1; border: 1px solid #edd97a; }
 .well a { color: black; }
 
+/* Jumbotron */
+.jumbotron {
+  background: #fa9866;
+}
+
+#myCarousel {
+  width: 100%;
+}
+    
+.item{
+  text-align: center;
+  height: 300px !important;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+}

@@ -72,4 +72,7 @@ body {
   text-align: center;
   height: 300px !important;
 }
-  
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+}
