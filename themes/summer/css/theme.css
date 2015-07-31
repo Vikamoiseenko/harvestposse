@@ -14,7 +14,8 @@ body {
   background: #fff9e9;
   
 }
-
+font-family { 'Raleway', sans-serif;
+}
 /* Navbar */
 .navbar-default { background: #fa9866; border-color: #f0db7b; }
 .navbar-default .navbar-brand { color: #807542; }

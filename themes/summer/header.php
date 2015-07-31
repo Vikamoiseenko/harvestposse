@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-    <link href='http://fonts.googleapis.com/css?family=Coming+Soon' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Coming+Soon|Raleway' rel='stylesheet' type='text/css'>
 
     <title>Harvest Posse</title>
 
