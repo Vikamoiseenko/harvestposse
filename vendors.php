@@ -16,7 +16,7 @@
               <p>Lorem ipsum dolor sit amet.</p>
             </div>
           </div>
-        </div>
+    </div></div>
         
         <div class="container theme-showcase" role="main">
         <div class="row">
@@ -31,7 +31,7 @@
               <p>Lorem ipsum dolor sit amet.</p>
             </div>
           </div>
-        </div>
+        </div></div>
       
      <div class="container theme-showcase" role="main">    
      <div class="row">
@@ -46,7 +46,7 @@
               <p>Lorem ipsum dolor sit amet.</p>
             </div>
           </div>
-        </div>
+        </div></div>
         
      <div class="container theme-showcase" role="main">
      <div class="row">
@@ -58,10 +58,11 @@
         <p>Lorem ipsum dolor sit amet.</p>
         <p>Lorem ipsum dolor sit amet.</p> 
         <p>Lorem ipsum dolor sit amet.</p>
-        <p>Lorem ipsum dolor sit amet.</p
+        <p>Lorem ipsum dolor sit amet.</p>
         </div>
       </div>  
     </div>
+	</div>
           
      <div class="container theme-showcase" role="main">
          <div class="row">
@@ -92,7 +93,7 @@
                 <p>Lorem ipsum dolor sit amet.</p>
             </div>
           </div>
-        </div>
+        </div></div>
     <div class="container theme-showcase" role="main">  
      <div class="row">
       <div class="panel panel-primary">
