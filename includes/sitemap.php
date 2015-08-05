@@ -36,12 +36,9 @@
     </li>
     </div>
        <div class="col-md-2">
-    <li><a href="#">Fresh List</a></li>
+    <li><a href="fresh.php">Fresh List</a></li>
     </div>
-  </ul>
-     </ul>
-    </li>
-    </div>
+     </li>
        <div class="col-md-2">
     <li><a href="faq.php">FAQ's</a></li>
     </div>
