@@ -15,77 +15,9 @@
         <div class="row">
            <!-- <div class="col-md-4"> -->
                 <div id="accordion" class="panel-group">
-                    <div class="panel panel-info">
-                        <div class="panel-heading">
-                            <div class="panel-title">
-                            <a href="#first"
-                               data-toggle="collapse"
-                               data-parent="#accordion">Section 1</a>
-                            </div>
-                        </div>
-                        <div class="panel-collapse collapse" id="first">
-                            <div class="panel-body">
-                                <p>     Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
-    ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
-    amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
-    odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate. </p>
-                            </div>
-                        </div>
-                    </div>
+                 
 
-                    <div class="panel panel-info">
-                        <div class="panel-heading">
-                            <div class="panel-title">
-                                <a href="#second"
-                                   data-toggle="collapse"
-                                   data-parent="#accordion">Section 2</a>
-                            </div>
-                        </div>
-                        <div class="panel-collapse collapse" id="second">
-                            <div class="panel-body">
-                                <p>     Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
-    ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
-    amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
-    odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate. </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-info">
-                        <div class="panel-heading">
-                            <div class="panel-title">
-                                <a href="#third"
-                                   data-toggle="collapse"
-                                   data-parent="#accordion">Section 3</a>
-                            </div>
-                        </div>
-                        <div class="panel-collapse collapse" id="third">
-                            <div class="panel-body">
-                                <p>     Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
-    ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
-    amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
-    odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate. </p>
-                            </div>
-                        </div>
-                    </div>
-                                        <div class="panel panel-info">
-                        <div class="panel-heading">
-                            <div class="panel-title">
-                                <a href="#third"
-                                   data-toggle="collapse"
-                                   data-parent="#accordion">Section 4</a>
-                            </div>
-                        </div>
-                        <div class="panel-collapse collapse" id="third">
-                            <div class="panel-body">
-                                <p>     Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
-    ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
-    amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
-    odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate. </p>
-                            </div>
-                        </div>
-                    </div>
-
+                               
                 </div>
            <!-- </div> -->
 
