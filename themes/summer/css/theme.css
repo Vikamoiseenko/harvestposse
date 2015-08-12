@@ -14,7 +14,8 @@ body {
   background: #fff9e9;
   font-family: 'Raleway', sans-serif;
 }
-
+/*font-family { 'Raleway', sans-serif;
+}*/
 /* Navbar */
 .navbar-default { background: #fa9866; border-color: #f0db7b; }
 .navbar-default .navbar-brand { color: #807542; }
@@ -75,4 +76,25 @@ body {
 
 .carousel-caption {
   background: rgba(0, 0, 0, 0.5);
+}
+
+.cta {
+position:relative;
+max-width:100%;
+}
+
+.cta-text {
+position: absolute;
+bottom:0px;
+width:100%;
+background-color:rgba(0,0,0,0.5);
+ }
+
+.cta-text h3 {
+color:#fff;
+text-align:center;
+line-height:1.5;
+font-size:125%;
+margin-bottom:20px;
+
 }
