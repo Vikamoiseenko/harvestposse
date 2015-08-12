@@ -113,9 +113,6 @@
 		
 			<div class="col-sm-6">
 				<div class="panel panel-primary">
-					<div class="panel-heading">
-					<h3 class="panel-title">CTA 1</h3>
-					</div>
 					<div class="panel-body">
 					<div class="cta"><a href="newvendors.php"><img src="images/new-vendor-cta.jpg" alt="new vendors" class="img-responsive center-block"><div class="cta-text"><h3>Become a Vendor</h3></div></a></div>
 					</div>
@@ -124,9 +121,6 @@
 
 		<div class="col-sm-6">
 			<div class="panel panel-primary">
-				<div class="panel-heading">
-				<h3 class="panel-title">CTA 2</h3>
-				</div>
 				<div class="panel-body">
 				<div class="cta"><a href="fresh.php"><img src="images/fresh-list-cta.jpg" alt="new vendors" class="img-responsive center-block cta"><div class="cta-text"><h3>See the Fresh List</h3></div></a></div>
 				</div>
