@@ -27,7 +27,7 @@
 	<p> A.	Many vendors and farmers at the various markets do accept credit/debit cards, but you should always bring cash to the market just to be prepared. </p>
 	 <br>
 	<p> Q.	How I become a vendor? </p>
-	<p> A.	Go here and fill out the form we have made available - someone will be in touch with you shortly.</p>	
+	<p> A.	Go <a href="http://www.akashtolangee.com/harvestposse-master/newvendors.php"> here </a> and fill out the form we have made available - someone will be in touch with you shortly.</p>	
 
           
           
