@@ -21,12 +21,12 @@
                 <li>Bloom Creek Cranberries</li>
                 <li>Canales Produce</li>
                <li> Chao Chang Garden</li>
-                <li>Collins Family Orchards</li></ul> 
+                <li><A href="http://collinsfamilyorchards.com/" target="_blank">Collins Family Orchards</a></li></ul> 
                 <h4>Meat, Fish and Poultry</h4>
-                 	<ul><li>Early Bird Farm</li>
+                 	<ul><li><a href="http://www.earlybirdfarmer.com/" target="_blank">Early Bird Farm</a></li>
                     <li>Gray Sky Farm</li>
-                    <li>Growing Washington - berries, vegetables</li>
-                    <li>Loki Fish Company</li>
+                <li><a href="http://www.growingwashington.org/" target="_blank">Growing Washington - berries, vegetables</a></li>
+                    <li><a href="http://www.lokifish.com/" target="_blank">Loki Fish Company</a></li>
                     <li>Nature's Last Stand - pork, produce, and ready-to-eat items </li></ul>
             </div>
           </div>
