@@ -33,7 +33,7 @@
   <body role="document">
     <header class="page-header">
        <a href="index.php" title="Return to the homepage" id="logo">
-  <img src="images/logo.png"  alt="logo"/>
+  <img src="images/logo-sm.png"  alt="logo"/>
 </a>
 
 <?php include_once('includes/nav.php'); ?>
