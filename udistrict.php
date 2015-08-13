@@ -19,14 +19,14 @@
               <ul><li> Alm Hill Gardens - flowers</li>
                <li> Blong's Garden - flowers, vegetables</li>
                <li> Bloom Creek Cranberries</li>
-                <li>Booth Canyon Orchard</li>
-                <li>Botanica - nursery</li> </ul>
+                <li><a href="http://www.boothcanyonorchard.com/" target="_blank">Booth Canyon Orchard</a></li>
+                <li><a href="http://www.botanicaplants.com/" target="_blank">	Botanica - nursery</a></li> </ul>
                 <h4>Fish, Meat and Poultry</h4>
                  <ul><li>Fishing Vessel Hat Trick - spot prawns</li>
-                <li>Glendale Shepherd - sheeps milk products</li>
-                <li>Growing Things Farm</li>
-                <li>Growing Washington - berries, vegetables</li>
-                <li>Hama Hama Shellfish</li></ul> 
+                <li><a href="http://glendaleshepherd.com/" target="_blank">Glendale Shepherd - sheeps milk products</a></li>
+                <li><a href="http://growingthingsfarm.org/" target="_blank">Growing Things Farm</a></li>
+                <li><a href="http://www.growingwashington.org/" target="_blank">Growing Washington - berries, vegetables</a></li>
+                <li><a href="http://www.hamahamaoysters.com/" target="_blank">Hama Hama Shellfish</a></li></ul> 
             </div>
           </div>
         </div>
