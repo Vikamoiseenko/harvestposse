@@ -92,12 +92,12 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#fourth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Columbia City</a>
                             </div>
                         </div>
-                        <div class="panel-collapse collapse" id="third">
+                        <div class="panel-collapse collapse" id="fourth">
                             <div class="panel-body">
                                 <p>Alvarez Farms - produce</p>
             <p>Bao Yang Garden - flowers and vegetables</p>
@@ -117,12 +117,12 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#fifth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Lake City</a>
                             </div>
                         </div>
-                        <div class="panel-collapse collapse" id="third">
+                        <div class="panel-collapse collapse" id="fifth">
                             <div class="panel-body">
                                 <p> Alvarez Farms - produce</p>
                 <p>Blong's Garden - flowers, vegetables</p>
@@ -142,12 +142,12 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#sixth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Phinney</a>
                             </div>
                         </div>
-                        <div class="panel-collapse collapse" id="third">
+                        <div class="panel-collapse collapse" id="sixth">
                             <div class="panel-body">
                                 <p>Alvarez Farms - produce</p>
                 <p>Chao Chang Garden</p>
@@ -167,12 +167,12 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#seventh"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Magnolia</a>
                             </div>
                         </div>
-                        <div class="panel-collapse collapse" id="third">
+                        <div class="panel-collapse collapse" id="seventh">
                             <div class="panel-body">
                                 <p>Alvarez Farms - produce</p>
             <p>Cascade Natural Honey</p>
