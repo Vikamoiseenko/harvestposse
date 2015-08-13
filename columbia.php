@@ -21,13 +21,14 @@
                 <li>Bao Yang Garden - flowers and vegetables</li>
                 <li>Canales Produce</li>
                 <li>Cascadia Edible Landscapes</li>
-                <li>Collins Family Orchards </li></ul>
+                <li><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards</a> </li></ul>
                 <h4>Fish, Meat and Poultry</h4>
                  <ul><li>Goose and Gander Farm</li>
-                <li>Growing Washington - berries, vegetables</li>
-                <li>Olsen Farms</li>
-                <li>Samish Bay Cheese</li>
-                <li>Seattle Tilth Produce </li></ul>
+                <li><a href="http://www.growingwashington.org/"target="_blank">Growing Washington - berries, vegetables</a></li>
+                <li><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></li>
+                <li><a href="http://samishbay.com/"target="_blank">Samish Bay Cheese</a></li>
+                <li><a href="http://www.seattletilth.org/about/stproduce"target="_blank">Seattle Tilth Produce</a> </li></ul>
+              
               
             </div>
           </div>
