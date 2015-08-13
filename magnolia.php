@@ -20,12 +20,12 @@
             <ul><li>Alvarez Farms - produce</li>
             <li>Cascade Natural Honey</li>
             <li>Chao Chang Garden</li>
-            <li>Collins Family Orchards</li>
+            <li><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards </a></li>
            <li>Goose and Gander Farm </li></ul>
            <h4>Fish, Meat and Poultry</h4>
             <ul><li>Goose and Gander Farm</li>
-            <li>Olsen Farms</li>
-           <li> R Heritage Farm</li></ul>
+            <li><a href="http://www.olsenfarms.com/" target="_blank">Olsen Farms<a/></li>
+           <li><a href="http://www.rheritagefarm.com/" target="_blank">R Heritage Farm</a> </li></ul>
 
               
             </div>
