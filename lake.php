@@ -18,16 +18,16 @@
             June through October this market has a variety of vendors offering great artisanal foods and beverages! Poultry and eggs are typically at this neighborhood market as well but get snatched up quickly, so get there early! Lake City is a smaller market, but once you’ve tried some of the yummy food available, it will quickly become your favourite! Take a look at the Market Page for a more detailed view at what vendors will be present this season at this great market!
             <h4>Vendors</h4>
             <h4>Produce</h4>
-             	<ul><li>Alvarez Farms - produce</li>
+             <ul><li>Alvarez Farms - produce</li>
                 <li>Blong's Garden - flowers, vegetables</li>
-                <li>Collins Family Orchards</li>
+                <li><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards</a></li>
                 <li>Family Pepper and Produce</li>
                 <li>Greenwater Farm - hardy kiwis</li> </ul>
            <h4>Fish, Meat and Poultry</h4>
-           		<ul><li>Growing Washington - berries, vegetables</li>
-                <li>Olsen Farms</li>
-                <li>Sky Valley Family Farm - poultry, eggs</li>
-                <li>White Heron Wine - rotating schedule</li></ul>
+           		<ul><li><a href="http://www.growingwashington.org/"target="_blank">Growing Washington - berries, vegetables</a></li>
+                <li><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></li>
+                <li>Sky Valley Family Farm - poultry, eggs</a></li>
+                <li><a href="http://www.whiteheronwine.com/"target="_blank">White Heron Wine - rotating schedule</a></li></ul>
                 
 
               
