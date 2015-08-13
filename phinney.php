@@ -19,15 +19,15 @@
             <h4>Produce</h4>
             <ul><li> Alvarez Farms - produce</li>
             <li>Chao Chang Garden</li>
-            <li>Collins Family Orchards</li>
-            <li>Hayton Farms Berries</li>
-            <li>Kittitas Valley Greenhouse - tomatoes </li></ul>
+            <li><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards</a></li>
+            <li><a href="http://www.haytonfarmsberries.com/"target="_blank">Hayton Farms Berries</a></li>
+            <li><a href="http://kittitasvalleygreenhouse.com/"target="_blank">Kittitas Valley Greenhouse - tomatoes</a></li></ul>
             <h4>Fish, Meat and Poultry</h4>
             <ul><Li> Cook Inlet Wild Fish Co.</Li>
             <li>Fresh & Wild Seafoods</li>
-           <li> Nelli Farms</li>
-            <li>Olsen Farms</li>
-           <li> Steel Wheel Farm</li></ul> 
+           <li><a href="http://www.nellifarms.com/#!about-us/clxo"target="_blank">Nelli Farms</a></li>
+           <li><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></li>
+           <li><a href="http://steelwheelfarm.com/"target="_blank">Steel Wheel Farm</a> </li></ul> 
               
             </div>
           </div>
