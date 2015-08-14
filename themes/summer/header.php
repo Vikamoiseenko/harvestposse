@@ -32,8 +32,8 @@
 
   <body role="document">
     <header class="page-header">
-       <a href="index.php" title="Return to the homepage" id="logo">
-  <img src="images/logo-sm.png"  alt="logo"/>
+       <a href="index.php" title="Return to the homepage">
+  <img id="logo" src="images/logo-sm.png"  alt="logo"/>
 </a>
-
+	</header>
 <?php include_once('includes/nav.php'); ?>

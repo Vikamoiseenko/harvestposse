@@ -76,3 +76,7 @@ body {
 .carousel-caption {
   background: rgba(0, 0, 0, 0.5);
 }
+
+#logo {
+margin: -20px auto 20px auto;
+}

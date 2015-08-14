@@ -96,5 +96,9 @@ text-align:center;
 line-height:1.5;
 font-size:125%;
 margin-bottom:20px;
+}
 
+#logo {
+display:block;
+margin: -20px auto 20px auto;
 }
