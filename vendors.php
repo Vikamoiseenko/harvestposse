@@ -158,8 +158,8 @@
                 <p> Cook Inlet Wild Fish Co.</p>
                 <p>Fresh & Wild Seafoods</p>
                 <p><a href="http://www.nellifarms.com/#!about-us/clxo"target="_blank">Nelli Farms</a></p>
-                <p>O<a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></p>
-                <p>a href="http://steelwheelfarm.com/"target="_blank">Steel Wheel Farm</a> </p>
+                <p><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></p>
+                <p><a href="http://steelwheelfarm.com/"target="_blank">Steel Wheel Farm</a> </p>
                             </div>
                         </div>
                     </div>
