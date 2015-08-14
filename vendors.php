@@ -54,12 +54,12 @@
               <p> Bloom Creek Cranberries </p>
               <p> Canales Produce </p>
               <p> Chao Chang Garden </p>
-              <p>Collins Family Orchards</p>
+              <p><a href="http://collinsfamilyorchards.com/" target="_blank">Collins Family Orchards</a></p>
              
-                <p>Early Bird Farm </p>
+                <p><a href="http://www.earlybirdfarmer.com/" target="_blank">Early Bird Farm</a></p>
                 <p>Gray Sky Farm</p>
-                <p>Growing Washington - berries, vegetables</p>
-                <p>Loki Fish Company</p>
+                <p><a href="http://www.growingwashington.org/" target="_blank">Growing Washington - berries, vegetables</a></p>
+                <p><a href="http://www.lokifish.com/" target="_blank">Loki Fish Company</a></p>
                 <p>Nature's Last Stand - pork, produce, and ready-to-eat items </p>
                             </div>
                         </div>
@@ -83,16 +83,16 @@
                 
                 <p>Cook Inlet Wild Fish Co.</p>
                 <p>Fishing Vessel Hat Trick - spot prawns</p>
-                <p>Green Bow Farm LLC</p>
-                <p>Growing Washington - berries, vegetables</p>
-                <p>Loki Fish Company</p>
+                <p><a href="http://www.greenbowfarm.com/"target="_blank">Green Bow Farm LLC</a></p>
+                <p><a href="http://www.growingwashington.org/"target="_blank">Growing Washington - berries, vegetables</a></p>
+                <p><a href="http://www.lokifish.com/"target="_blank">Loki Fish Company</a></p>
                             </div>
                         </div>
                     </div>
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#fourth"
+                                <a href="#third"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Columbia City</a>
                             </div>
@@ -103,13 +103,13 @@
             <p>Bao Yang Garden - flowers and vegetables</p>
             <p>Canales Produce</p>
             <p>Cascadia Edible Landscapes</p>
-            <p>Collins Family Orchards</p>
+            <p><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards</a></p>
             
             <p>Goose and Gander Farm</p>
-            <p>Growing Washington - berries, vegetables</p>
-            <p>Olsen Farms</p>
-            <p>Samish Bay Cheese</p>
-            <p>Seattle Tilth Produce</p> 
+            <p><a href="http://www.growingwashington.org/"target="_blank">Growing Washington - berries, vegetables</a></p>
+            <p><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></p>
+            <p><a href="http://samishbay.com/"target="_blank">Samish Bay Cheese</a></p>
+            <p><a href="http://www.seattletilth.org/about/stproduce"target="_blank">Seattle Tilth Produce</a></p> 
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#fifth"
+                                <a href="#third"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Lake City</a>
                             </div>
@@ -126,14 +126,14 @@
                             <div class="panel-body">
                                 <p> Alvarez Farms - produce</p>
                 <p>Blong's Garden - flowers, vegetables</p>
-                <p>Collins Family Orchards</p>
+                <p><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards</a></p>
                 <p>Family Pepper and Produce</p>
                 <p>Greenwater Farm - hardy kiwis</p>
                 
-                <p>Growing Washington - berries, vegetables</p>
-                <p>Olsen Farms</p>
+                <p>href="http://www.growingwashington.org/"target="_blank">Growing Washington - berries, vegetables</a</p>
+                <p><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></p>
                 <p>Sky Valley Family Farm - poultry, eggs</p>
-                <p>White Heron Wine - rotating schedule</p>
+                <p><a href="http://www.whiteheronwine.com/"target="_blank">White Heron Wine - rotating schedule</a></p>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#sixth"
+                                <a href="#third"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Phinney</a>
                             </div>
@@ -151,15 +151,15 @@
                             <div class="panel-body">
                                 <p>Alvarez Farms - produce</p>
                 <p>Chao Chang Garden</p>
-                <p>Collins Family Orchards</p>
-                <p>Hayton Farms Berries</p>
-                <p>Kittitas Valley Greenhouse - tomatoes</p>
+                <p><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards</a></p>
+                <p><a href="http://www.haytonfarmsberries.com/"target="_blank">Hayton Farms Berries</a></p>
+                <p><a href="http://kittitasvalleygreenhouse.com/"target="_blank">Kittitas Valley Greenhouse - tomatoes</a></p>
                 
                 <p> Cook Inlet Wild Fish Co.</p>
                 <p>Fresh & Wild Seafoods</p>
-                <p>Nelli Farms</p>
-                <p>Olsen Farms</p>
-                <p>Steel Wheel Farm</p>
+                <p><a href="http://www.nellifarms.com/#!about-us/clxo"target="_blank">Nelli Farms</a></p>
+                <p>O<a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms</a></p>
+                <p>a href="http://steelwheelfarm.com/"target="_blank">Steel Wheel Farm</a> </p>
                             </div>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#seventh"
+                                <a href="#third"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Magnolia</a>
                             </div>
@@ -177,12 +177,12 @@
                                 <p>Alvarez Farms - produce</p>
             <p>Cascade Natural Honey</p>
             <p>Chao Chang Garden</p>
-            <p>Collins Family Orchards</p>
+            <p><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards </a></p>
             <p>Goose and Gander Farm </p>
             
             <p>Goose and Gander Farm</p>
-            <p>Olsen Farms</p>
-            <p> R Heritage Farm</p>
+            <p><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms<a/></p>
+            <p><a href="http://www.rheritagefarm.com/"target="_blank">R Heritage Farm</a></p>
                             </div>
                         </div>
                     </div>
