@@ -179,8 +179,6 @@
             <p>Chao Chang Garden</p>
             <p><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards </a></p>
             <p>Goose and Gander Farm </p>
-            
-            <p>Goose and Gander Farm</p>
             <p><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms<a/></p>
             <p><a href="http://www.rheritagefarm.com/"target="_blank">R Heritage Farm</a></p>
                             </div>
