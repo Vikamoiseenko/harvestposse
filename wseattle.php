@@ -15,7 +15,7 @@
               <p>10am - 2pm</p>
               <p>California Ave SW & SW Alaska</p>
               <h4>Vendors</h4>
-               <ul><li>Alvarez Farms - produce</li>
+                <ul><li>Alvarez Farms - produce</li>
                <li> Blong's Garden - flowers, vegetables</li>
                <li> Bloom Creek Cranberries</li>
                 <li>Botanica - nursery</li>
@@ -23,9 +23,9 @@
                 <h4>Fish, Meat and Poultry</h4>
                 <ul><li> Cook Inlet Wild Fish Co.</li>
                 <li>Fishing Vessel Hat Trick - spot prawns</li>
-                <li>Green Bow Farm LLC</li>
-                <li>Growing Washington - berries, vegetables</li>
-                <li>Loki Fish Company</li></ul> 
+                <li><a href="http://www.greenbowfarm.com/"target="_blank">Green Bow Farm LLC</a></li>
+                <li><a href="http://www.growingwashington.org/"target="_blank">Growing Washington - berries, vegetables</a></li>
+                <li><a href="http://www.lokifish.com/"target="_blank">Loki Fish Company</a></li></ul>  
             </div>
           </div>
         </div>
