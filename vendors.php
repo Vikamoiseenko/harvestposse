@@ -92,7 +92,7 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#fourth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Columbia City</a>
                             </div>
@@ -117,7 +117,7 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#fifth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Lake City</a>
                             </div>
@@ -142,7 +142,7 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#sixth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Phinney</a>
                             </div>
@@ -167,7 +167,7 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#seventh"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Magnolia</a>
                             </div>
@@ -179,6 +179,8 @@
             <p>Chao Chang Garden</p>
             <p><a href="http://collinsfamilyorchards.com/"target="_blank">Collins Family Orchards </a></p>
             <p>Goose and Gander Farm </p>
+            
+            <p>Goose and Gander Farm</p>
             <p><a href="http://www.olsenfarms.com/"target="_blank">Olsen Farms<a/></p>
             <p><a href="http://www.rheritagefarm.com/"target="_blank">R Heritage Farm</a></p>
                             </div>
