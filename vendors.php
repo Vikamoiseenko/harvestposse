@@ -190,6 +190,8 @@
 
 
         </div>
+		</div>
+		</div>
     
     <script src="lib/jquery-ui-1.10.4/jquery-1.10.2.js"></script>
     <script src="lib/jquery-ui-1.10.4/ui/minified/jquery-ui.min.js"></script>

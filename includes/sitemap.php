@@ -1,5 +1,5 @@
 <div class="well hidden-xs">
-  <h2>Site Map</h2>
+  <h4>Site Map</h4>
 <div class="container">
 <div class="row">
 
