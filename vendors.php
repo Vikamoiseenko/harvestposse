@@ -200,8 +200,8 @@
     <script src="lib/jquery-ui-1.10.4/ui/jquery.ui.accordion.js"></script>
     <script src="lib/bootstrap.min.js"></script>
     <script src="lib/fabric.min.js"></script>
-  </div>
-  </div>              
+ 
+               
 <?php
   get_footer();
 ?>
