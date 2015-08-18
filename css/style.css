@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin:0;
+	padding:0;	
+}
+img {
+	max-width:100%;	
+<<<<<<< HEAD
+	height:auto;
+=======
+>>>>>>> victoria
+}
+a {
+	text-decoration:none;	
+}
+a img {
+	border:none;	
+}
+body {
+<<<<<<< HEAD
+	font-family: 'Coming Soon', cursive;
+=======
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+>>>>>>> victoria
+	width:100%;	
+	max-width:980px;
+	margin:1.25em auto;	
+}
+header {
+	width:100%;	
+}
+header img {
+	width:100%;	
+}

@@ -1,0 +1,89 @@
+CATAMOUNT BACKLOG
+
+www.harvestposse.com
+
+
+
+
+>>>>> OVERALL SITE GOALS <<<<<
+
+>>Information Architecture:
+
+	HOME	
+	ABOUT US	
+	MARKETS*
+		U-DISTRICT
+		CAP HILL
+		WEST SEATTLE
+		COLUMBIA CITY
+		LAKE CITY
+		PHINNEY
+		MAGNOLIA	
+	VENDORS**
+		NEW VENDORS	
+	FRESH LIST***
+
+
+>>Content:
+
+	*MARKETS (individual pages)
+		Location
+		Hours
+		Contact
+		Social Media / Embed Feeds?
+		Images
+		Location-Specific Vendor Information
+		Location-Specific Event Information
+		
+	**VENDORS
+		Vendor/Farm Location
+		Vendor/Farm Hours
+		Vendor/Farm Contact
+		Vendor Social Media / Embed Feeds?
+		Images
+		
+		NEW VENDORS
+	
+	***FRESH LIST
+		List & Calendar with Harvest Dates/Availability
+		
+
+>>Functionality:
+
+	HOME
+		Image Map linking to Market Pages
+	
+	NEW VENDORS	
+		Contact page for new vendor sign up
+		
+	FRESH LIST
+		Calendar w/populated images on appropriate dates
+		
+		
+>>>>> SPRINT ALPHA GOALS<<<<<  **due July 16**
+
+	Create Information Architecture
+	Create Wireframes 
+	Produce color palette options
+	Add Bootstrap
+	Image Map
+	Basic Market Listing: locations & hours
+	Skeleton Pages
+	Logo Options
+	Find Images
+	Linked CSS File
+	Basic Navigation
+	Finalize Nav bar
+	Finalize Sitemap
+
+>>>>> SPRINT BETA GOALS<<<<<  **due July 30**
+
+	Finalize Logo
+	Font stack
+	Finalize CSS
+	About Us Content
+	Markets Content
+	Vendors Content
+	Home Content
+	Fresh List
+	Market-specific Images
