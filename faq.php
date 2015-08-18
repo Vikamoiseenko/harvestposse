@@ -62,12 +62,12 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#fourth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Q.	Do the neighborhood markets accept credit or debit cards? </a>
                             </div>
                         </div>
-                        <div class="panel-collapse collapse" id="third">
+                        <div class="panel-collapse collapse" id="fourth">
                             <div class="panel-body">
                                 <p>A.	Many vendors and farmers at the various markets do accept credit/debit cards, but you should always bring cash to the market just to be prepared. </p> 
                             </div>
@@ -77,12 +77,12 @@
                                         <div class="panel panel-info">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a href="#third"
+                                <a href="#fifth"
                                    data-toggle="collapse"
                                    data-parent="#accordion">Q.	How I become a vendor? </a>
                             </div>
                         </div>
-                        <div class="panel-collapse collapse" id="third">
+                        <div class="panel-collapse collapse" id="fifth">
                             <div class="panel-body">
                                 <p> A.	Go <a href="http://www.akashtolangee.com/harvestposse-master/newvendors.php"> here </a> and fill out the form we have made available - someone will be in touch with you shortly.</p>
                             </div>
