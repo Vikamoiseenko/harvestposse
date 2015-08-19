@@ -53,6 +53,10 @@
       <div class="col-xs-2">
        <a href="https://foursquare.com/v/west-seattle-farmers-market/4a7f1107f964a520a5f21fe3" target="_blank"><img class="img-responsive" src="images/foursquare.png" alt="foursquare icon"></a>
       </div>
+	    <div class="col-xs-2">
+		<a href="https://twitter.com/intent/tweet?button_hashtag=WSeattleFarmersMkt" class="twitter-hashtag-button">Tweet #WSeattleFarmersMkt</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      </div>
 
    		</div>
           </div>
