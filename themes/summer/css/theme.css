@@ -65,6 +65,10 @@ body {
   background: #fa9866;
 }
 
+.jumbotron p {
+font-size:1.125em;
+}
+
 #myCarousel {
   width: 100%;
 }
