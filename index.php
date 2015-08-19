@@ -10,50 +10,50 @@
             <div class="item active">
               <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
-                <h2>U-District Market</h2>
-                <p>The U-District is the perfect market to browse for hours - there are plenty of produce vendors present. Grab some lunch and a drink fit for the season and explore!</p>
+                <h3>U-District Market</h3>
+                <p>Open all year - Saturdays 9am-2pm</p>
               </div>
             </div>
             <div class="item">
               <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
-                <h2>Capitol Hill Market</h2>
-                <p>It’s a smaller neighborhood market, but definitely isn’t one to be overlooked! Great vendors offer wine, beer, cider, and fresh pastries.</p>
+                <h3>Capitol Hill Market</h3>
+                <p>Open all year - Sundays 11am-3pm</p>
               </div>
             </div>
             <div class="item">
               <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
-                <h2>West Seattle Market</h2>
-                <p>It's a market. Eat up.</p>
+                <h3>West Seattle Market</h3>
+                <p>Open all year - Sundays 10am-2pm</p>
               </div>
             </div>
             <div class="item">
               <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
-                <h2>Columbia City Market</h2>
-                <p>The Columbia City market is mainly produce, but also has vendors offering a great selection in wines.</p>
+                <h3>Columbia City Market</h3>
+                <p>Open May-October - Wednesdays 3pm-7pm</p>
               </div>
             </div>
             <div class="item">
               <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
-                <h2>Lake City Market</h2>
-                <p>Lake City is a smaller market, but once you’ve tried some of the yummy food available, it will quickly become your favourite! </p>
+                <h3>Lake City Market</h3>
+                <p>Open June-October - Thursdays 3pm-7pm</p>
               </div>
             </div>
             <div class="item">
               <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
-                <h2>Phinney Market</h2>
-                <p>May through September this smaller neighborhood market offers lovely farm fresh produce and a great selection of meat, poultry and seafood. </p>
+                <h3>Phinney Market</h3>
+                <p>Open May-September - Fridays 3pm-7pm</p>
               </div>
             </div>
             <div class="item">
               <img src="images/broadway.jpeg" alt="Market"/>
               <div class="carousel-caption">
-                <h2>Magnolia Market</h2>
-                <p>It's a market. Eat up.</p>
+                <h3>Magnolia Market</h3>
+                <p>Open June-October - Saturdays 10am-2pm</p>
               </div>
             </div>
           </div>
