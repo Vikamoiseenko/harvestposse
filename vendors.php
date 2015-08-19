@@ -12,7 +12,7 @@
         </div>
         <div class="panel-body">
         
-        <div class="row">
+        <div class="row row-vendor">
            <!-- <div class="col-md-4"> -->
                 <div id="accordion" class="panel-group">
                     <div class="panel panel-info">
