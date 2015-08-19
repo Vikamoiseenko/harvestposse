@@ -63,6 +63,11 @@ body {
 /* Jumbotron */
 .jumbotron {
   background: #fa9866;
+  padding:30px;
+}
+
+.container .jumbotron {
+  padding:30px;
 }
 
 .jumbotron p {
